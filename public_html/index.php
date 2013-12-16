@@ -1,7 +1,7 @@
 <?php
 
 //load script that has the magic "__autoload()" function, to automatically load libraries if not included/required.
-require_once(dirname(__FILE__) .'/../lib/cs-content/__autoload.php');
+require_once(dirname(__FILE__) .'/../lib/includes.php');
 
 $siteConfig = new cs_siteConfig(dirname(__FILE__) .'/../conf/siteConfig.xml', 'website');
 
