@@ -10,7 +10,7 @@
 	path = lib/cs-phpxml
 	url = git@github.com:crazedsanity/cs-phpxml.git
 	branch = development
-[submodule "lib/cs-clilogger"]
-	path = lib/cs-clilogger
-	url = git@github.com:crazedsanity/cs-clilogger.git
+[submodule "lib/cs-multiproc"]
+	path = lib/cs-multiproc
+	url = git@github.com:crazedsanity/cs-multiproc.git
 	branch = development
